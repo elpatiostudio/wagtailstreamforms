@@ -17,6 +17,7 @@ RUN set -ex \
     && apt-get install -y --no-install-recommends \
         gcc \
         gettext \
+        git \
         libjpeg-dev \
         libpq-dev \
         make \
